@@ -22,30 +22,7 @@
 
 
             <div class="col p-4 board">
-                <div class="row">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_1" type="button"
-                        class="btn btn-success">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_2" type="button"
-                        class="btn btn-success ml-2">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_3" type="button"
-                        class="btn btn-success ml-2">
-                </div>
-                <div class="row mt-2">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_4" type="button"
-                        class="btn btn-success">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_5" type="button"
-                        class="btn btn-success ml-2">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_6" type="button"
-                        class="btn btn-success ml-2">
-                </div>
-                <div class="row mt-2">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_7" type="button"
-                        class="btn btn-success">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_8" type="button"
-                        class="btn btn-success ml-2">
-                    <input style="width: 50px" onclick="ticked(this)" id="tiles_9" type="button"
-                        class="btn btn-success ml-2">
-                </div>
+               
             </div>
         </div>
         <div style="float: right" class="mt-3">
